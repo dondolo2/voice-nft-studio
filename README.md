@@ -11,6 +11,21 @@ A React + Vite demo app that turns spoken prompts into AI-generated artwork and 
 - Mints the generated artwork as a Solana NFT on Devnet using Metaplex UMI.
 - Stores a local gallery of minted NFTs in browser localStorage.
 
+## 📸 Screenshots
+
+### **Main Studio** – Voice recording + image generation + minting 
+![Main Studio](screenshots/studio.png)
+### **Voice Recording, Transcribed Prompt & AI Generated Image** – Image appears from your voice description 
+![Generated Image](screenshots/generated-image.png)
+### **Mint Success** – Transaction signature and NFT confirmation 
+![Mint Success](screenshots/mint-success.png)
+### **Wallet Gallery** – All minted NFTs saved locally
+![Gallery](screenshots/gallery.png)
+### **Wallet Connection** – Phantom wallet connected on Devnet 
+![Wallet Connected](screenshots/wallet-connected.png)
+
+---
+
 ## Key features
 
 - Voice recording and speech transcription
